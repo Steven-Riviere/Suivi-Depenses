@@ -6,7 +6,7 @@ Ce projet permet de suivre les dépenses et de gérer un budget personnel facile
 ## Aperçu de l'application
 Voici une capture d'écran de l'interface de gestion des dépenses.
 
-![Aperçu de l'application](./src/main/assets/suivi-depenses-graphique.png)
+![Aperçu de l'application](./assets/suivi-depenses-graphique.png)
 
 ## Fonctionnalités
 - Suivi des dépenses
